@@ -1,0 +1,6 @@
+Username: codespace
+Hostname: codespaces-e70b9e
+Shell: /bin/bash
+Directory: /workspaces/scripting-for-cybersecurity/lab02/challenge
+Python: /usr/bin/python3
+Python filenames found: 14
