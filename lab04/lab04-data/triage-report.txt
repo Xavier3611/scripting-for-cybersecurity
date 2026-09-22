@@ -1,0 +1,31 @@
+File Triage Report
+
+Total Files: 23
+Total Directories: 9
+Python Files: 2
+Shell Scripts: 1
+Log Files: 4
+Configuration Files: 3
+Empty Files: 1
+Archives: 1
+
+Files Containing "admin":
+./logs/auth.log
+./logs/access.log
+./backups/users.old
+./evidence/notes.txt
+
+Detected File Types in Evidence:
+      4      ASCII text
+      3       ASCII text
+      2  ASCII text
+      2     ASCII text
+      2         ASCII text
+      2          ASCII text
+      1 ELF, unknown class 154
+      1    Zip archive data, at least v2.0 to extract, compression method=deflate
+      1      empty
+      1      PNG image data, 1 x 1, 8-bit/color RGBA, non-interlaced
+      1        Bourne-Again shell script, ASCII text executable
+      1        ASCII text
+      1           ASCII text
